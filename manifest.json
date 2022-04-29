@@ -1,0 +1,11 @@
+{
+  "name": "Mashanz Chrome Extension: Hello World",
+  "version": "0.0.1",
+  "description": "",
+  "manifest_version": 3,
+  "author": "Mashanz",
+  "action": {
+    "default_popup": "src/index.html",
+    "default_title": "Hello World"
+  }
+}
